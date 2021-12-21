@@ -1,0 +1,10 @@
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\obj\Debug\TWService.csprojAssemblyReference.cache
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\obj\Debug\TWService.csproj.CoreCompileInputs.cache
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\bin\Debug\TWService.exe.config
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\bin\Debug\TWService.exe
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\bin\Debug\TWService.pdb
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\bin\Debug\HNBackend.dll
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\bin\Debug\Newtonsoft.Json.dll
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\obj\Debug\TWService.csproj.CopyComplete
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\obj\Debug\TWService.exe
+Z:\@@@_CODING_@@@\_GITHUB\_WindowsService\WindowService\TWService\TWService\obj\Debug\TWService.pdb
